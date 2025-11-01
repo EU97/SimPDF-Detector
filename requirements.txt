@@ -1,0 +1,10 @@
+# Core scientific stack
+numpy>=1.26.0
+Pillow>=10.0.0
+
+# PDF processing
+PyMuPDF>=1.24.0
+
+# ML / Similarity
+scikit-learn>=1.3.0
+scikit-image>=0.22.0
